@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Product": 3
+  },
+  "models": {
+    "Product": {
+      "1": "{\"title\":\"Huaweii p30\",\"qty\":1,\"price\":1000,\"id\":1}",
+      "2": "{\"title\":\"Learn python\",\"qty\":1,\"price\":1500,\"id\":2}"
+    }
+  }
+}
